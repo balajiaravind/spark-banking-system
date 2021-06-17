@@ -48,7 +48,7 @@
                 </div>
               </div>
               <div class="col-sm-12 col-md img text-center">
-                <img src="img/bank.png" class="img-fluid pt-2">
+                <img src="img/bank.jpg" width="60%" height="60%" class="img-fluid pt-2">
               </div>
             </div>
 

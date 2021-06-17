@@ -72,7 +72,7 @@
                         <td class="py-2"><?php echo $rows['id'] ?></td>
                         <td class="py-2"><?php echo $rows['name']?></td>
                         <td class="py-2"><?php echo $rows['email']?></td>
-                        <td class="py-2"><?php echo $rows['balance']?></td>
+                        <td class="py-2">Rs.<?php echo $rows['balance']?></td>
                         <td><a href="selecteduserdetail.php?id= <?php echo $rows['id'] ;?>"> <button type="button" class="btn">Transact</button></a></td> 
                     </tr>
                 <?php
